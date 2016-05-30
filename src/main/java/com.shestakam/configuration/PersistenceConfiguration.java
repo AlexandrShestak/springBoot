@@ -1,4 +1,4 @@
-package com.shestakam;
+package com.shestakam.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
